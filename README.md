@@ -1,3 +1,5 @@
 # python
-
-# nothing done
+ 
+ 
+ print(n=2)
+ 
